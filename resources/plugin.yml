@@ -1,0 +1,9 @@
+name: RtpMenu
+version: 1.0
+main: me.kevind.RtpMenu
+api-version: 1.19
+author: ItsCryptic
+default-permission: true
+commands:
+  rtp:
+    description: "Randomly teleports you to a location!"
